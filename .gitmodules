@@ -1,0 +1,13 @@
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/hirunadissanayake/Cloud-Health-Project-Platform-Config-Server.git
+[submodule "discovery-server"]
+	path = discovery-server
+	url = https://github.com/hirunadissanayake/Cloud-Health-Project-Platform-Discovery-Server.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/hirunadissanayake/Cloud-Health-Project-Platform-Api-Gateway.git
+[submodule "config-repository"]
+	path = config-repository
+	url = https://github.com/hirunadissanayake/Cloud-Health-Project-Platform-Config-Repository.git
+
